@@ -1,0 +1,14 @@
+C:\Users\Ethan\Downloads\TokenCalc\TokenCalc\bin\Release\net8.0\TokenCalc.exe
+C:\Users\Ethan\Downloads\TokenCalc\TokenCalc\bin\Release\net8.0\TokenCalc.deps.json
+C:\Users\Ethan\Downloads\TokenCalc\TokenCalc\bin\Release\net8.0\TokenCalc.runtimeconfig.json
+C:\Users\Ethan\Downloads\TokenCalc\TokenCalc\bin\Release\net8.0\TokenCalc.dll
+C:\Users\Ethan\Downloads\TokenCalc\TokenCalc\bin\Release\net8.0\TokenCalc.pdb
+C:\Users\Ethan\Downloads\TokenCalc\TokenCalc\obj\Release\net8.0\TokenCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Downloads\TokenCalc\TokenCalc\obj\Release\net8.0\TokenCalc.AssemblyInfoInputs.cache
+C:\Users\Ethan\Downloads\TokenCalc\TokenCalc\obj\Release\net8.0\TokenCalc.AssemblyInfo.cs
+C:\Users\Ethan\Downloads\TokenCalc\TokenCalc\obj\Release\net8.0\TokenCalc.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Downloads\TokenCalc\TokenCalc\obj\Release\net8.0\TokenCalc.dll
+C:\Users\Ethan\Downloads\TokenCalc\TokenCalc\obj\Release\net8.0\refint\TokenCalc.dll
+C:\Users\Ethan\Downloads\TokenCalc\TokenCalc\obj\Release\net8.0\TokenCalc.pdb
+C:\Users\Ethan\Downloads\TokenCalc\TokenCalc\obj\Release\net8.0\TokenCalc.genruntimeconfig.cache
+C:\Users\Ethan\Downloads\TokenCalc\TokenCalc\obj\Release\net8.0\ref\TokenCalc.dll
