@@ -1,6 +1,6 @@
 # Robux Calculator
 
-This program calculates the amount of Robux required to reach a desired number of tokens in a game, including additional Robux for VIP status.
+This program calculates the amount of Robux required to reach a desired number of tokens in a game, not including additional Robux for VIP status.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ This program calculates the amount of Robux required to reach a desired number o
 
 ## Overview
 
-The Robux Calculator is a command-line application written in C++ that helps users determine the Robux needed to achieve a desired number of tokens. It utilizes multi-threading to speed up the calculation process, allowing for parallel processing of token packages.
+The Robux Calculator is a command-line application written in C++ that helps users determine the Robux needed to achieve a desired number of tokens.
 
 ## Requirements
 
@@ -25,8 +25,6 @@ To compile and run this program, you need:
 ## Notes
 - The program uses ANSI escape codes for colored output. Ensure your terminal supports ANSI escape sequences for proper formatting.
 - Input validation ensures that token values are non-negative and end in 0 or 5.
-- The calculation involves iterating through predefined token packages and using multi-threading for parallel processing.
-
 
 ## Code Attribution
 
